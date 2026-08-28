@@ -22,7 +22,7 @@ ollama pull qwen2.5:1.5b
 pip install -r requirements.txt
 ```
 
-##更新
+## 更新
 1.能用中文输入了。
 
 2.做了一点优化：ai回答问题时画面不会卡住了......
